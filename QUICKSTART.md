@@ -1,6 +1,6 @@
-# 🚀 ConsultHub 快速开始指南
+# 🚀 Strategic Analyst 快速开始指南
 
-欢迎使用 ConsultHub！这份指南将帮助您在**5分钟内**上手使用本项目的核心功能。
+欢迎使用 Strategic Analyst！这份指南将帮助您在**5分钟内**上手使用本项目的核心功能。
 
 ---
 
@@ -102,10 +102,10 @@ mkdir my-project
 cd my-project
 
 # 复制需要的模板
-cp ../consulthub/templates/stage-templates/stage1-problem-definition.md ./
+cp ../strategic-analyst/templates/stage-templates/stage1-problem-definition.md ./
 
 # 或者复制全部模板
-cp -r ../consulthub/templates/stage-templates/* ./
+cp -r ../strategic-analyst/templates/stage-templates/* ./
 ```
 
 ### Step 3：填写模板
@@ -409,4 +409,4 @@ cp -r ../consulthub/templates/stage-templates/* ./
 
 **文档版本**：v1.0  
 **最后更新**：2025年11月  
-**维护者**：ConsultHub Team
+**维护者**：Strategic Analyst Team

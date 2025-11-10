@@ -1,6 +1,6 @@
 # 📝 更新日志
 
-本文件记录 ConsultHub 项目的所有重要变更。
+本文件记录 Strategic Analyst 项目的所有重要变更。
 
 格式基于 [Keep a Changelog](https://keepachangelog.com/zh-CN/1.0.0/)，
 版本号遵循 [语义化版本](https://semver.org/lang/zh-CN/)。
@@ -96,6 +96,6 @@
 
 **注**: 所有未发布的工作都在 `main` 分支上持续开发。
 
-[Unreleased]: https://github.com/yourusername/consulthub/compare/v0.1.0...HEAD
-[0.1.0]: https://github.com/yourusername/consulthub/releases/tag/v0.1.0
+[Unreleased]: https://github.com/yourusername/strategic-analyst/compare/v0.1.0...HEAD
+[0.1.0]: https://github.com/yourusername/strategic-analyst/releases/tag/v0.1.0
 

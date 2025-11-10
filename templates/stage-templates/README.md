@@ -454,8 +454,8 @@ A：可以，但要谨慎：
 
 **模板库版本**：v1.0  
 **最后更新**：2025年11月  
-**维护者**：ConsultHub Team  
-**项目主页**：[ConsultHub GitHub](https://github.com/...)
+**维护者**：Strategic Analyst Team  
+**项目主页**：[Strategic Analyst GitHub](https://github.com/hugohe3/strategic-analyst)
 
 ---
 

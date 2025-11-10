@@ -640,8 +640,8 @@
 
 **案例版本**：v1.0  
 **最后更新**：2025年11月  
-**案例作者**：ConsultHub Team  
-**所属项目**：ConsultHub - 战略咨询工具与模板库
+**案例作者**：Strategic Analyst Team  
+**所属项目**：Strategic Analyst - 战略咨询工具与模板库
 
 ---
 

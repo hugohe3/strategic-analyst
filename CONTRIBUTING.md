@@ -1,6 +1,6 @@
 # 🤝 贡献指南
 
-感谢您对 ConsultHub 项目的关注！我们欢迎各种形式的贡献。
+感谢您对 Strategic Analyst 项目的关注！我们欢迎各种形式的贡献。
 
 ## 🎯 贡献方式
 
@@ -34,11 +34,11 @@
 # Fork 本仓库到您的账号
 
 # Clone 到本地
-git clone https://github.com/YOUR-USERNAME/consulthub.git
-cd consulthub
+git clone https://github.com/YOUR-USERNAME/strategic-analyst.git
+cd strategic-analyst
 
 # 添加上游仓库
-git remote add upstream https://github.com/ORIGINAL-OWNER/consulthub.git
+git remote add upstream https://github.com/ORIGINAL-OWNER/strategic-analyst.git
 ```
 
 ### 第二步：创建分支
@@ -277,5 +277,5 @@ def calculate_market_size(
 
 ---
 
-再次感谢您的贡献！每一个贡献都让 ConsultHub 变得更好。🎉
+再次感谢您的贡献！每一个贡献都让 Strategic Analyst 变得更好。🎉
 
