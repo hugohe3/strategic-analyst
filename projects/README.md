@@ -1,142 +1,96 @@
-# 💼 项目案例库
+# 💼 项目输出目录
 
-本目录存放完整的咨询项目案例，包括项目文档、分析过程和最终交付物。
+本目录用于存放您使用 Strategic Analyst AI Agent 生成的项目输出文件。
 
-## 📁 项目结构规范
+## 📁 目录说明
 
-每个项目应包含以下标准结构：
+这是一个**用户工作区**，用于保存您与 AI Agent 协作完成的战略分析项目。每个项目应包含五个阶段的完整输出。
+
+### 与 examples/ 的区别
+
+| 目录 | 用途 | 内容 |
+|------|------|------|
+| **projects/** | 用户输出目录 | 存放您自己的项目分析结果 |
+| **examples/** | 学习案例库 | 预制的教学示例和 mini-cases |
+
+## 📁 推荐项目结构
+
+建议按照五阶段工作法组织您的项目文件：
 
 ```
-project-name/
-├── README.md                   # 项目概述
-├── 01-problem-definition/      # 问题定义
+my-project/
+├── README.md                      # 项目概述
+├── stage1-problem-definition.md  # 阶段1：问题定义确认书
+├── stage2-analysis-framework.md  # 阶段2：分析框架确认书
+├── stage3-hypothesis.md           # 阶段3：战略假设方案
+├── stage4-validation-plan.md     # 阶段4：验证计划书
+└── stage5-final-report.md        # 阶段5：战略建议报告
+```
+
+### 可选的详细结构
+
+如果项目较大，可以使用子目录：
+
+```
+my-project/
+├── README.md
+├── 01-problem-definition/
 │   ├── problem-statement.md
-│   └── stakeholder-analysis.md
-├── 02-structured-analysis/     # 结构化分析
-│   ├── analysis-framework.md
-│   └── logic-tree.png
-├── 03-hypothesis/              # 假设提出
-│   ├── initial-hypothesis.md
-│   └── brainstorm-notes.md
-├── 04-validation/              # 假设验证
+│   └── stakeholder-notes.md
+├── 02-analysis/
+│   ├── framework.md
+│   └── mece-tree.md
+├── 03-hypothesis/
+│   └── options-analysis.md
+├── 04-validation/
 │   ├── research-plan.md
-│   ├── interview-notes/
-│   └── data-analysis/
-├── 05-delivery/                # 最终交付
-│   ├── final-report.pdf
-│   ├── presentation.pptx
-│   └── executive-summary.md
-└── lessons-learned.md          # 经验总结
+│   └── interview-notes/
+├── 05-delivery/
+│   └── final-report.md
+└── assets/
+    ├── diagrams/
+    └── data/
 ```
 
-## 🎯 项目分类
+## 💡 如何使用此目录
 
-### 按行业分类
-- 科技行业
-- 消费品
-- 金融服务
-- 医疗健康
-- 教育培训
-- 制造业
-- 零售电商
+### 开始一个新项目
 
-### 按问题类型分类
-- 市场进入策略
-- 产品定位分析
-- 竞争策略制定
-- 组织架构优化
-- 运营效率提升
-- 数字化转型
-- 业务增长策略
+1. **创建项目目录**：
+   ```bash
+   mkdir projects/my-project-name
+   cd projects/my-project-name
+   ```
 
-### 按项目规模分类
-- 大型战略项目（8-12周）
-- 中型咨询项目（4-6周）
-- 快速诊断项目（1-2周）
+2. **复制模板**（可选）：
+   ```bash
+   cp ../../templates/stage-templates/stage1-problem-definition.md ./
+   ```
 
-## 📊 现有项目（示例）
+3. **使用 AI Agent 生成内容**：
+   - 在 ChatGPT/Claude/Cursor 中加载 Strategic Analyst 角色
+   - 按照五阶段工作法逐步完成分析
+   - 将每个阶段的输出保存到对应文件
 
-### 项目列表
-_待添加实际项目案例_
+4. **保持更新**：
+   - 定期保存 AI 对话的输出
+   - 记录关键决策点和修正
+   - 可以随时回溯和调整
 
-<!-- 示例格式：
-### [项目名称] - 简短描述
-- **行业**: 科技/消费品/金融等
-- **问题**: 核心问题陈述
-- **周期**: 项目时长
-- **状态**: 已完成/进行中
-- **关键洞见**: 1-2句核心发现
-- [查看详情](./project-folder/)
--->
+### 查看示例
 
-## 🔒 隐私与保密
+想了解完整的项目输出应该是什么样子？查看 `examples/` 目录中的案例。
 
-### 脱敏要求
-- **必须**移除所有客户识别信息
-- **必须**处理敏感商业数据
-- **可以**使用化名和模糊处理
-- **可以**使用真实行业背景
+## 📝 文件命名建议
 
-### 分享检查清单
-- [ ] 移除公司名称和标识
-- [ ] 处理具体财务数字
-- [ ] 隐藏关键人物信息
-- [ ] 模糊化具体产品名称
-- [ ] 移除内部沟通记录
-- [ ] 获得必要的分享许可
+使用清晰的命名方式：
+- `my-company-market-strategy/` - 公司市场战略
+- `personal-career-planning-2025/` - 个人职业规划
+- `product-positioning-analysis/` - 产品定位分析
 
-## 📝 添加新项目
+## 🔗 相关资源
 
-### 步骤
-1. 创建项目文件夹（使用规范的命名）
-2. 按照标准结构组织文件
-3. 编写项目 README
-4. 确保完成脱敏处理
-5. 更新本 README 的项目列表
-6. 编写经验总结
-
-### 命名规范
-- 使用小写字母和连字符
-- 格式：`行业-问题类型-简短描述`
-- 示例：`tech-market-entry-saas-platform`
-
-## 💡 学习建议
-
-### 如何学习项目案例
-1. **先读 README**：了解项目背景和核心问题
-2. **学习问题定义**：看如何从表象挖掘真实问题
-3. **研究分析框架**：理解如何进行结构化拆解
-4. **关注验证过程**：学习如何收集和分析数据
-5. **研究交付方式**：学习如何呈现分析结果
-6. **总结经验教训**：吸取项目的成功经验和改进点
-
-### 复用与改编
-- 分析框架可以直接复用
-- 访谈问题可以参考改编
-- 图表模板可以套用
-- 叙事结构可以借鉴
-
-## 🎓 教学价值
-
-每个项目案例应体现：
-- ✅ 完整的五步法应用
-- ✅ 四大原则的贯彻
-- ✅ 实际问题的解决过程
-- ✅ 可复用的方法和工具
-- ✅ 真实的挑战和应对
-
-## 🤝 贡献项目案例
-
-我们欢迎：
-- 您自己完成的咨询项目（脱敏后）
-- 教学性质的模拟项目
-- 公开信息基础上的分析案例
-- 个人决策项目（如职业规划）
-
-## 📞 案例交流
-
-想要讨论某个项目案例？
-- 在对应项目文件夹创建 Issue
-- 在 Discussions 中发起讨论
-- 联系项目维护者
+- **学习案例**：查看 [examples/](../examples/) 目录中的教学案例
+- **输出模板**：使用 [templates/](../templates/) 目录中的标准模板
+- **AI Agent 角色**：参考 [roles/](../roles/) 目录中的提示词定义
 
