@@ -145,11 +145,11 @@ strategic-analyst/
 │
 ├── 📚 AI 知识库（Agent 参考资料）
 │   ├── docs/
-│   │   ├── methodology/       # MECE、金字塔、假设驱动等
-│   │   ├── frameworks/        # BCG、SWOT、波特五力等
+│   │   ├── methodology/       # MECE、金字塔、假设驱动、结构化思维 🆕
+│   │   ├── frameworks/        # 22个框架：BCG、SWOT、波特五力、7S、VRIO、蓝海等 🆕
 │   │   └── best-practices/    # 最佳实践
 │   └── examples/
-│       └── mini-cases/        # 完整案例（5个场景）
+│       └── mini-cases/        # 完整案例（6个场景） 🆕
 │
 └── 📖 文档
     ├── README.md              # 本文件
