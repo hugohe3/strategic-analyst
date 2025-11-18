@@ -11,6 +11,8 @@
 - **5分钟上手** → [QUICKSTART.md](./QUICKSTART.md)
 - **了解项目** → [README.md](./README.md)
 - **使用AI分析** → [roles/strategic_analyst.md](./roles/strategic_analyst.md)
+- **系统化学习** → [LEARNING-PATH.md](./LEARNING-PATH.md) ⭐ 新增
+- **查询术语** → [GLOSSARY.md](./GLOSSARY.md) ⭐ 新增
 
 ### 学习战略分析
 
@@ -19,7 +21,10 @@
 - **浏览所有框架** → [docs/frameworks/](./docs/frameworks/README.md) - 22个框架 🆕
 - **学习结构化思维** → [结构化思维指南](./docs/methodology/structured-thinking-guide.md) ⭐ 新增
 - **学习方法论** → [docs/methodology/](./docs/methodology/)
-- **查看完整案例** → [examples/mini-cases/](./examples/mini-cases/) - 6个案例 🆕
+- **查看完整案例** → [examples/mini-cases/](./examples/mini-cases/) - 7个案例 🆕
+- **案例快速查找** → [案例索引系统](./examples/CASE-INDEX.md) ⭐ 新增
+- **框架质量检查** → [框架使用检查清单](./docs/frameworks/CHECKLISTS.md) ⭐ 新增
+- **避免常见错误** → [常见错误指南](./docs/best-practices/common-mistakes.md) ⭐ 新增
 
 ### 实战应用
 
@@ -48,14 +53,17 @@
    - 复制 [strategic_analyst.md](./roles/strategic_analyst.md) 到ChatGPT/Claude
    - 提一个真实问题，体验AI引导式分析
 
-3. **学习基础框架**（1-2小时）
-   - 查看 [框架快速选择指南](./docs/frameworks/QUICK-SELECTION.md)
+3. **系统化学习**（1-2小时）
+   - 查看 [7天入门学习计划](./LEARNING-PATH.md) ⭐ 推荐
+   - 或查看 [框架快速选择指南](./docs/frameworks/QUICK-SELECTION.md)
    - 学习SWOT、波特五力、商业模式画布三个框架
    - 阅读一个完整案例：[市场进入策略](./examples/mini-cases/market-entry-saas-education.md)
 
 4. **动手实践**（2-3小时）
    - 选择一个真实问题
    - 使用AI Agent完成五阶段分析
+   - 参考 [案例索引](./examples/CASE-INDEX.md) 找相关案例
+   - 使用 [检查清单](./docs/frameworks/CHECKLISTS.md) 确保质量
    - 将输出保存到 `projects/` 目录
 
 **关键文档**：

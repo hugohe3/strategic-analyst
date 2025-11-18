@@ -478,9 +478,12 @@ BCG矩阵：每季度更新（业务动态变化）
 
 - [框架快速选择指南](./QUICK-SELECTION.md) - 快速找到合适的框架 🆕
 - [框架组合方案库](./framework-combinations.md) - 常见场景的框架组合 🆕
+- [框架使用检查清单](./CHECKLISTS.md) - 确保分析质量 🆕
 - [核心方法论](../methodology/) - MECE原则、金字塔原则、假设驱动
 - [Mini-Cases](../../examples/mini-cases/) - 真实案例中的框架应用
+- [案例索引系统](../../examples/CASE-INDEX.md) - 快速找到相关案例 🆕
 - [模板库](../../templates/) - 各框架的标准模板
+- [常见错误指南](../best-practices/common-mistakes.md) - 避免常见错误 🆕
 
 ---
 

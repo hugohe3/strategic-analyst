@@ -154,6 +154,9 @@ strategic-analyst/
 └── 📖 文档
     ├── README.md              # 本文件
     ├── QUICKSTART.md          # 快速开始指南
+    ├── NAVIGATION.md          # 快速导航 🆕
+    ├── LEARNING-PATH.md       # 学习路径（7天/30天）🆕
+    ├── GLOSSARY.md            # 术语表 🆕
     └── AGENTS.md              # Agent 使用指南
 ```
 
@@ -211,27 +214,37 @@ AI价值：波特五力+SWOT，找到差异化路径
 
 ## 🎓 学习路径
 
+**💡 系统化学习**：查看 [完整学习路径](./LEARNING-PATH.md)（7天入门 + 30天精通）🆕
+
 ### Level 1：快速体验（30分钟）
 
 1. 阅读 [QUICKSTART.md](./QUICKSTART.md)（10分钟）
 2. 加载 AI Agent，提一个真实问题（20分钟）
 3. 体验阶段0-1（问题诊断）
 
-### Level 2：深度学习（2-4小时）
+### Level 2：系统学习（7天）
 
-1. 阅读一个完整 [mini-case](./examples/mini-cases/)（60分钟）
+1. 跟随 [7天入门计划](./LEARNING-PATH.md)（每天1-2小时）
 2. 学习核心方法论：
+   - [结构化思维指南](./docs/methodology/structured-thinking-guide.md) 🆕
    - [MECE原则](./docs/methodology/mece-principle.md)
    - [金字塔原则](./docs/methodology/pyramid-principle.md)
-   - [假设驱动](./docs/methodology/hypothesis-driven.md)
-3. 尝试用 AI Agent 分析自己的问题（2小时）
+3. 掌握3个核心框架（SWOT、五力、商业模式画布）
+4. 完成至少5个练习
 
-### Level 3：实战应用（持续）
+### Level 3：深度精通（30天）
 
-1. 选择一个真实项目
-2. 使用 AI Agent 完成五阶段分析
-3. 将输出保存到 `projects/` 目录
-4. 复盘和总结
+1. 跟随 [30天精通计划](./LEARNING-PATH.md)
+2. 掌握10+个主要框架
+3. 学习框架组合使用
+4. 完成2-3个完整项目
+
+### Level 4：实战应用（持续）
+
+1. 在工作中持续应用
+2. 形成个人分析套路
+3. 贡献案例和方法论
+4. 成为战略分析专家
 
 ---
 
