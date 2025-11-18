@@ -57,20 +57,22 @@
 
 ## 📖 推荐学习路径
 
-### Level 1: 基础概念（1-2天）
-1. [什么是 MECE](./01-mece-basics/)（待创建）
-2. [第一次"切"问题](./02-first-cut/)（待创建）
-3. [简单的金字塔写作](./03-pyramid-writing/)（待创建）
+**💡 系统化学习**：查看 [完整学习路径](../LEARNING-PATH.md)（7天入门 + 30天精通）
 
-### Level 2: 工具应用（3-5天）
-1. [BCG矩阵实战](./04-bcg-matrix/)（待创建）
-2. [市场规模估算](./05-market-sizing/)（待创建）
-3. [竞品分析框架](./06-competitor-analysis/)（待创建）
+### Level 1: 快速入门（1-2天）
+1. [结构化思维指南](../docs/methodology/structured-thinking-guide.md) - 理解核心概念
+2. [MECE原则详解](../docs/methodology/mece-principle.md) - 掌握拆解方法
+3. [SWOT分析](../docs/frameworks/swot-analysis.md) - 第一个框架
 
-### Level 3: 综合演练（1-2周）
-1. [小型战略分析](./07-mini-strategy/)（待创建）
-2. [个人决策案例](./08-personal-decision/)（待创建）
-3. [产品定位分析](./09-product-positioning/)（待创建）
+### Level 2: 框架应用（3-5天）
+1. [波特五力](../docs/frameworks/porter-five-forces.md) - 行业分析
+2. [商业模式画布](../docs/frameworks/business-model-canvas.md) - 模式设计
+3. [价值链分析](../docs/frameworks/value-chain-analysis.md) - 竞争优势
+
+### Level 3: 综合实战（1-2周）
+1. [市场进入策略](./mini-cases/market-entry-saas-education.md) - 完整五阶段流程
+2. [外卖平台竞争](./mini-cases/competitive-analysis-food-delivery.md) - 竞争分析
+3. [智能硬件转型](./mini-cases/startup-pivot-strategy.md) - 快速决策
 
 ## 🎮 互动练习
 

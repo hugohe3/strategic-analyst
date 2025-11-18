@@ -1,8 +1,22 @@
 # 📊 Strategic Analyst - AI 驱动的战略分析专家系统
 
+![Version](https://img.shields.io/badge/version-v2.2-blue)
+![Frameworks](https://img.shields.io/badge/frameworks-22-green)
+![Cases](https://img.shields.io/badge/cases-7-orange)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 > **让 AI 成为你的战略咨询顾问**
 
 **Strategic Analyst** 是一个专门为 AI (ChatGPT / Claude / Gemini等) 设计的战略咨询专家系统，通过优质的提示词和知识库，使 AI 能够像麦肯锡顾问一样进行结构化战略分析。
+
+## 📊 项目统计
+
+- 📚 **战略分析框架**：22个（宏观环境、行业竞争、组织分析、资源能力、创新战略等）
+- 📖 **完整案例**：7个（覆盖5个行业，6种问题类型）
+- 📝 **方法论文档**：4个（结构化思维、MECE、金字塔、假设驱动）
+- 🛠️ **实用工具**：5个（快速选择、组合方案、检查清单、错误指南、术语表）
+- 📄 **总文档数**：65个
+- 💾 **项目大小**：2.4MB
 
 ---
 
@@ -440,6 +454,23 @@ MIT License - 详见 [LICENSE](./LICENSE)
 - BCG 战略咨询方法论
 - 精益创业方法论
 - 所有贡献者和反馈者
+
+---
+
+## 👥 贡献者
+
+感谢所有为 Strategic Analyst 做出贡献的人！
+
+**核心贡献者**：
+- 项目创建者和主要维护者
+
+**欢迎贡献**：
+- 📝 贡献案例和方法论
+- 🐛 报告问题和建议
+- 💡 分享使用心得
+- ⭐ 给项目点赞
+
+查看 [贡献指南](./CONTRIBUTING.md) 了解如何参与。
 
 ---
 

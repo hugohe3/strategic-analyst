@@ -32,14 +32,15 @@
 ## 🚀 快速索引
 
 ### 新手入门
-1. [什么是结构化战略思维](./getting-started.md)（待创建）
-2. [五步法快速指南](./five-steps-guide.md)（待创建）
-3. [常用工具速查表](./tools-cheatsheet.md)（待创建）
+1. [结构化思维入门指南](./methodology/structured-thinking-guide.md) - 战略分析的思维基础
+2. [7天入门学习计划](../LEARNING-PATH.md) - 系统化学习路径
+3. [框架快速选择指南](./frameworks/QUICK-SELECTION.md) - 快速找到合适的框架
 
 ### 进阶学习
-- [深度分析技巧](./advanced-analysis.md)（待创建）
-- [复杂问题拆解案例](./complex-cases.md)（待创建）
-- [行业特定方法论](./industry-specific.md)（待创建）
+- [框架组合方案库](./frameworks/framework-combinations.md) - 常见场景的框架组合
+- [案例索引系统](../examples/CASE-INDEX.md) - 多维度案例查找
+- [框架使用检查清单](./frameworks/CHECKLISTS.md) - 确保分析质量
+- [常见错误指南](./best-practices/common-mistakes.md) - 避免常见错误
 
 ## 📝 贡献文档
 
