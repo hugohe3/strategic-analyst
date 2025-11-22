@@ -1,6 +1,6 @@
 # 📊 Strategic Analyst - AI 驱动的战略分析专家系统
 
-![Version](https://img.shields.io/badge/version-v2.2-blue)
+![Version](https://img.shields.io/badge/version-v2.1-blue)
 ![Frameworks](https://img.shields.io/badge/frameworks-22-green)
 ![Cases](https://img.shields.io/badge/cases-7-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
@@ -45,8 +45,12 @@
 
 - **GitHub Copilot** → 读取 `AGENTS.md`（自动）
 - **Claude Desktop** → 读取 `CLAUDE.md`（自动）
+- **Claude Code CLI** → 读取 `CLAUDE.md` + 增强功能（命令、子代理）
 - **Gemini** → 读取 `GEMINI.md`（自动）
+- **Cursor** → 读取 `CLAUDE.md`（自动）
 - **其他平台（ChatGPT等）** → 复制 `roles/strategic_analyst.md` 粘贴到对话框
+
+> **🆕 v2.1 新特性**：模块化记忆系统，核心文件精简至465行，详细知识按需加载
 
 **2. 开始对话**
 
@@ -85,12 +89,19 @@ AI 会带你走过 5 个阶段：
 
 ### 🤖 专业的 AI Agent
 
-**三大平台自动提示词**：
+**跨平台兼容的提示词**：
 - `AGENTS.md` - GitHub Copilot 自动读取
-- `CLAUDE.md` - Claude Desktop 自动读取
+- `CLAUDE.md` - Claude Desktop / Cursor / Claude Code CLI 自动读取
 - `GEMINI.md` - Gemini 自动读取
+- `roles/strategic_analyst.md` - 通用版本
 
-这三个文件内容同步自 `roles/strategic_analyst.md`，确保所有平台体验一致。
+**🆕 模块化记忆架构（v2.1）**：
+- **核心文件精简**：从1400+行精简到465行
+- **按需加载**：4个专门记忆模块（frameworks、methodology、cases、stage-guides）
+- **跨平台兼容**：所有功能在所有平台上都可用
+- **智能加载**：AI 根据对话情境自动加载相关记忆
+
+查看详情：[memory/README.md](./memory/README.md)
 
 **AI Agent 核心能力**：
 - ✅ **结构化问诊**：6要素法+5WHY，挖掘真实问题
