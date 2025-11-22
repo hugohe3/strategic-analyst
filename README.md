@@ -1,7 +1,7 @@
 # 📊 Strategic Analyst - AI 驱动的战略分析专家系统
 
 ![Version](https://img.shields.io/badge/version-v2.1-blue)
-![Frameworks](https://img.shields.io/badge/frameworks-22-green)
+![Frameworks](https://img.shields.io/badge/frameworks-19-green)
 ![Cases](https://img.shields.io/badge/cases-7-orange)
 ![License](https://img.shields.io/badge/license-MIT-blue)
 
@@ -11,7 +11,7 @@
 
 ## 📊 项目统计
 
-- 📚 **战略分析框架**：22个（宏观环境、行业竞争、组织分析、资源能力、创新战略等）
+- 📚 **战略分析框架**：19个（宏观环境、行业竞争、组织分析、资源能力、创新战略等）
 - 📖 **完整案例**：7个（覆盖5个行业，6种问题类型）
 - 📝 **方法论文档**：4个（结构化思维、MECE、金字塔、假设驱动）
 - 🛠️ **实用工具**：5个（快速选择、组合方案、检查清单、错误指南、术语表）
@@ -171,10 +171,10 @@ strategic-analyst/
 ├── 📚 AI 知识库（Agent 参考资料）
 │   ├── docs/
 │   │   ├── methodology/       # MECE、金字塔、假设驱动、结构化思维 🆕
-│   │   ├── frameworks/        # 22个框架：BCG、SWOT、波特五力、7S、VRIO、蓝海等 🆕
+│   │   ├── frameworks/        # 19个框架：BCG、SWOT、波特五力、7S、VRIO、蓝海等 🆕
 │   │   └── best-practices/    # 最佳实践
 │   └── examples/
-│       └── mini-cases/        # 完整案例（6个场景） 🆕
+│       └── mini-cases/        # 完整案例（7个场景） 🆕
 │
 └── 📖 文档
     ├── README.md              # 本文件

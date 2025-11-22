@@ -98,7 +98,7 @@
 
 ```
 memory/
-├── frameworks/CLAUDE.md        # 22个框架速查卡 + 选择决策树
+├── frameworks/CLAUDE.md        # 19个框架速查卡 + 选择决策树
 ├── methodology/CLAUDE.md       # 方法论核心（MECE、金字塔、假设驱动）
 ├── cases/CLAUDE.md             # 7个案例索引 + 可复用洞见
 └── stage-guides/CLAUDE.md      # 五阶段详细指南 + 检查清单
@@ -419,7 +419,7 @@ AI响应："阶段2的核心目标是...，使用MECE四大招式..."
 ## 📚 相关资源
 
 ### 知识库文档
-- **框架库**：`docs/frameworks/` - 22个战略分析框架
+- **框架库**：`docs/frameworks/` - 19个战略分析框架
 - **方法论**：`docs/methodology/` - MECE、金字塔、假设驱动
 - **案例库**：`examples/mini-cases/` - 7个完整案例
 - **最佳实践**：`docs/best-practices/` - 实战技巧

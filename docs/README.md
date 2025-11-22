@@ -11,7 +11,7 @@
 - [假设驱动方法论](./methodology/hypothesis-driven.md) - 快速验证，迭代优化
 
 ### 分析框架
-- [完整框架库](./frameworks/README.md) - 22个经典战略分析框架 🆕
+- [完整框架库](./frameworks/README.md) - 19个经典战略分析框架 🆕
 - [框架快速选择指南](./frameworks/QUICK-SELECTION.md) - 快速找到合适的框架 🆕
 - [框架组合方案库](./frameworks/framework-combinations.md) - 常见场景的框架组合 🆕
 - BCG矩阵、波特五力、SWOT、PEST、价值链等经典框架

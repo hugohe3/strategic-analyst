@@ -1,5 +1,18 @@
 # 案例：外卖平台竞争分析与应对策略
 
+**📊 使用的框架**: 
+- [波特五力](../../docs/frameworks/porter-five-forces.md) - 行业竞争分析
+- [SWOT分析](../../docs/frameworks/swot-analysis.md) - 内外部环境评估
+- [战略钟](../../docs/frameworks/strategy-clock.md) - 竞争定位选择
+
+**🎯 适用场景**: 竞争应对、差异化战略、市场防御
+
+**⏱️ 阅读时长**: 约40分钟
+
+**⭐ 难度**: 中级
+
+---
+
 ## 案例背景
 
 **公司**：鲜食达（化名）  

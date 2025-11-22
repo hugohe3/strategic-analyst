@@ -1,5 +1,19 @@
 # 案例：在线教育 SaaS 企业的市场进入战略
 
+**📊 使用的框架**: 
+- [PEST分析](../../docs/frameworks/pest-analysis.md) - 宏观环境分析
+- [波特五力](../../docs/frameworks/porter-five-forces.md) - 行业竞争分析
+- [SWOT分析](../../docs/frameworks/swot-analysis.md) - 综合环境分析
+- [商业模式画布](../../docs/frameworks/business-model-canvas.md) - 商业模式设计
+
+**🎯 适用场景**: 市场进入决策、战略转型、市场机会评估
+
+**⏱️ 阅读时长**: 约60分钟
+
+**⭐ 难度**: 中级
+
+---
+
 ## 案例背景
 
 **公司**：智学云（化名）  

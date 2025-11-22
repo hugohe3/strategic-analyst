@@ -158,14 +158,14 @@ git push origin case/your-case-name
 
 ### 我们需要什么方法论？
 
-**缺失的框架**（优先级排序）：
-1. PEST 分析（宏观环境）
-2. 价值链分析
-3. 安索夫矩阵（增长战略）
-4. GE矩阵（BCG的升级版）
-5. 业务画布（商业模式）
-6. 情景规划
-7. 核心竞争力分析
+**可以贡献的新框架**（优先级排序）：
+1. 情景规划（Scenario Planning）
+2. 核心竞争力分析框架
+3. 数字化转型框架
+4. 平台战略框架
+5. 生态系统战略框架
+6. 动态能力理论
+7. 破坏性创新框架
 
 **文档结构要求**：
 
@@ -329,7 +329,7 @@ git push origin case/your-case-name
 感谢所有贡献者！你们的贡献让 Strategic Analyst 变得更好。
 
 **特别感谢**（重大贡献者）：
-- [@contributor1](https://github.com/contributor1) - 贡献了5个案例
+- [@contributor1](https://github.com/contributor1) - 贡献了多个高质量案例
 - [@contributor2](https://github.com/contributor2) - 完善了BCG矩阵文档
 
 ---

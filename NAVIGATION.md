@@ -18,7 +18,7 @@
 
 - **选择分析框架** → [框架快速选择指南](./docs/frameworks/QUICK-SELECTION.md) ⭐
 - **框架组合方案** → [框架组合方案库](./docs/frameworks/framework-combinations.md) ⭐ 新增
-- **浏览所有框架** → [docs/frameworks/](./docs/frameworks/README.md) - 22个框架 🆕
+- **浏览所有框架** → [docs/frameworks/](./docs/frameworks/README.md) - 19个框架 🆕
 - **学习结构化思维** → [结构化思维指南](./docs/methodology/structured-thinking-guide.md) ⭐ 新增
 - **学习方法论** → [docs/methodology/](./docs/methodology/)
 - **查看完整案例** → [examples/mini-cases/](./examples/mini-cases/) - 7个案例 🆕
@@ -254,7 +254,7 @@
 
 | 类型 | 位置 | 说明 |
 |------|------|------|
-| **Mini-Cases** | [examples/mini-cases/](./examples/mini-cases/) | 5个完整案例（不同场景） |
+| **Mini-Cases** | [examples/mini-cases/](./examples/mini-cases/) | 7个完整案例（不同场景） |
 | **示例项目** | [projects/example-saas-market-entry/](./projects/example-saas-market-entry/) | 完整项目输出示例 |
 
 ---
@@ -314,7 +314,7 @@ strategic-analyst/
 │   └── docs/best-practices/         # 最佳实践
 │
 ├── 📖 案例与示例
-│   ├── examples/mini-cases/         # 5个完整案例
+│   ├── examples/mini-cases/         # 7个完整案例
 │   └── examples/README.md           # 案例索引
 │
 ├── 💼 实战工具
